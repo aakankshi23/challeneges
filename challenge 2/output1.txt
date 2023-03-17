@@ -1,0 +1,1 @@
+[{"deviceName":"instance-1","index":0,"interface":"SCSI","mode":"READ_WRITE","type":"PERSISTENT-BALANCED"}]
